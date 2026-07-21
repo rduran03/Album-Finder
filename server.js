@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 const PORT = 3000;
-const CLIENT_ID = 'b26663ac97714307ba0ec0a5f3cf706f';
-const CLIENT_SECRET = '54636f28cdbd4666843475cfa27947bd';
+const CLIENT_ID = '...';
+const CLIENT_SECRET = '...';
 
 let cachedToken = null;
 let tokenExpiry = 0;
