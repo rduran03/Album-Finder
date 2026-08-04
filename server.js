@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const PORT = 3000;
+//Seperate ID Token
 const CLIENT_ID = '...';
 const CLIENT_SECRET = '...';
 
