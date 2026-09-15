@@ -1,4 +1,4 @@
-function displayArtist(artist) {
+function displayArtist(artist){
   const header = document.getElementById('artist-header');
   const image = document.getElementById('artist-image');
   const name = document.getElementById('artist-name');
