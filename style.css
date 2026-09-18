@@ -1,4 +1,4 @@
-body {
+body{
     background-color: #121212;
     color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -6,7 +6,7 @@ body {
     padding: 40px 20px;
   }
   
-  .container {
+  .container{
     max-width: 1000px;
     margin: 0 auto;
     text-align: center;
